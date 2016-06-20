@@ -18,6 +18,12 @@
   },
   "homepage": "https://github.com/irenerobb72/spirals#readme",
   "devDependencies": {
-    "react": "^15.1.0"
+    "babel": "^6.5.2",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  },
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
   }
 }
